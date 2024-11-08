@@ -24,6 +24,8 @@ Os times da série Campeões Mundiais são baseados nos times campeões da Copa 
 
 Os uniformes são baseados nos uniformes usados pelos times nos jogos que eles venceram o título mundial. Em casos onde o time venceu o título mais de uma vez, eu escolhi o uniforme que eu achei mais icônico baseado no visual e na história do time.
 
+- Real Madrid (1960, 1998, 2002, 2014, 2016, 2017, 2018) 
+  - [Uniforme da final de 2002 contra o Olimpia](campeões%20mundiais/real%20madrid%202002/)
 - Corinthians (2000, 2012) 
   - [Unforme da final de 2012 contra o Chelsea](campeões%20mundiais/corinthians%202012/)
 - Grêmio (1983) 

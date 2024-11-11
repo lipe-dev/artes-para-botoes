@@ -26,6 +26,8 @@ Os uniformes são baseados nos uniformes usados pelos times nos jogos que eles v
 
 - Real Madrid (1960, 1998, 2002, 2014, 2016, 2017, 2018) 
   - [Uniforme da final de 2002 contra o Olimpia](campeões%20mundiais/real%20madrid%202002/)
+- Milan (1969, 1989, 1990, 2007) 
+  - [Uniforme da final de 2007 contra o Boca Juniors](campeões%20mundiais/milan%202007/)
 - Corinthians (2000, 2012) 
   - [Unforme da final de 2012 contra o Chelsea](campeões%20mundiais/corinthians%202012/)
 - Grêmio (1983) 

@@ -106,4 +106,4 @@ Você pode me mandar um email para fe@lipe.dev, ou me chamar no WhatsApp 35 9999
 
 ## Como eu faço para te agradecer?
 
-Não precisa, eu faço pela diversão de fazer e usar as artes. Mas se quiser, você pode me agradecer me enviando uma foto dos botões montados! Ou me paga uma coquinha quando a gente se encontrar pelos campos de futebol de botão da vida!
+Não precisa, eu faço pela diversão de fazer e usar as artes. Mas se quiser, você pode me agradecer me enviando uma foto dos botões montados! Ou me paga uma coquinha quando a gente se encontrar em algum evento. Costumo estar junto com a galera nos torneios la em Santana, na zona norte em SP.

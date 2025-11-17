@@ -93,8 +93,6 @@ Se você quiser contribuir, você pode me ajudar de várias formas:
 - Me enviando dicas de como melhorar a vida
 - Me enviando dicas de como melhorar
 - Me enviando dicas
-- Me enviando
-- Me
 - Ou não fazendo nada disso, e apenas curtindo as artes!
 - Ou não fazendo nada disso, e apenas curtindo o futebol de botão!
 
